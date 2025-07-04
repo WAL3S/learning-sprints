@@ -28,12 +28,12 @@ def check_for_proper_input(prompt):
 def main():
     while True:
         print("\nUnit Converter")
-        print("  1) km → miles")
-        print("  2) miles → km")
-        print("  3) °C → °F")
-        print("  4) °F → °C")
-        print("  5) lbs → kg")
-        print("  6) kg → lbs")
+        print("  1) km -> miles")
+        print("  2) miles -> km")
+        print("  3) °C -> °F")
+        print("  4) °F -> °C")
+        print("  5) lbs -> kg")
+        print("  6) kg -> lbs")
         print("  Q) Quit")
         choice = input('Choose the following options or (Q)uit:  ').strip().lower()
 
