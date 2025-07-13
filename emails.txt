@@ -1,0 +1,3 @@
+alice+test@mailservice.org
+john.doe@example.com
+jane_smith@company.co.uk
